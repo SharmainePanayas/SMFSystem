@@ -228,7 +228,7 @@
 		</div>
 	</div>
 	<div id = "footer">
-		<label class = "footer-title">&copy; Copyright Student File Management System <?php echo date("Y", strtotime("+8 HOURS"))?></label>
+		
 	</div>
 <?php include 'script.php'?>
 <script type="text/javascript">
